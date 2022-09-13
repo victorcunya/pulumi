@@ -1,0 +1,8 @@
+package-lock.json
+Pulumi.*.yaml
+*.zip
+node_modules
+.idea
+.env
+.DS_Store
+main
